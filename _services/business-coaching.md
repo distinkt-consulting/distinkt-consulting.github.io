@@ -1,7 +1,7 @@
 ---
 title: "Business Coaching"
 date: 2024-09-01
-weight: 2
+weight: 4
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
