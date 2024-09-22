@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uncovering what is taken for granted - First Workshop on Presuppositional Analysis"
-date:   2023-09-15
+date:   2024-09-15
 ---
 
 <p class="intro"><span class="dropcap"> A</span>t the 53rd Congress of the German Society for Psychology (Deutsche Gesellschaft für Psychologie, Hashtag#DGPs) and the 15th Congress of the Österreichische Gesellschaft für Psychologie (Hashtag#ÖGP) in Hashtag#Vienna, Gerhard Benetka, Alexander Nicolai Wendt, and I had the pleasure of conducting the inaugural workshop on presuppositional analysis. This one-day Pre-Conference Workshop at Hashtag#DGPs2024 provided 15 early-stage researchers with an introduction to a unique philosophical method designed to shed light on the often-overlooked tacit assumptions in psychological research.
