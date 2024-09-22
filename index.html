@@ -1,0 +1,40 @@
+---
+layout: default
+title: ESTML 2023
+---
+
+<div class="home" id="home">
+  <h1 class="pageTitle"> About ESTML 2023 </h1>
+  <p class="intro"><span class="dropcap"> T</span> his is the official homepage of the <b>ESTML 2023</b> (Electronic Structure Theory and Machine Learning 
+  in Materials Science and Computational Chemistry) conference, which is jointly organized by &#x2022; the University of Luxembourg 
+  (Prof. Alexandre Tkatchenko, Dr. Carolin Müller, and Adil Kabylda), &#x2022; Aalto University (Prof. Patrick Rinke, Dr. Hilda Sandström), 
+  and  &#x2022; the University of Turku (Assistant Prof. Milica Todorović, and Dr. Ransell D'Souza).
+  <br>
+  <br>
+  Join us in Levi, Finland, where the Workshop takes place at the <a href="https://estml.github.io/location/">Hullu Poro Hotel</a> from 
+  <a href="https://estml.github.io/schedule/">April 18<sup>th</sup> to 21<sup>st</sup></a>, 2023. 
+  The registration is already closed.
+  </p>
+  <br>
+  <br>
+  
+  <h1 class="pageTitle"> Stay up to date </h1>
+  <div class="posts noList">
+    {%- for post in paginator.posts -%}
+      <article>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
+      </article>
+    {%- endfor -%}
+  </div>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {%- if paginator.previous_page -%}
+      <a href="{{ paginator.previous_page_path }}" class="previous button__outline">Newer Posts</a>
+    {%- endif -%}
+    {%- if paginator.next_page -%}
+      <a href="{{ paginator.next_page_path }}" class="next button__outline">Older Posts</a>
+    {%- endif -%}
+  </div>
+</div>

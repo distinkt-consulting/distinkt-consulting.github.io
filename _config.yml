@@ -1,0 +1,35 @@
+title: ESTML 2023
+description: Electronic Structure Theory and Machine Learning in Materials Science and Computational Chemistry, 18.04.2023 - 21.04.2023
+
+url: 
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Location
+    url: /location
+  - title: Schedule
+    url: /schedule
+  - title: About the Organizers
+    url: /contact
+
+social:
+  github: ESTML
+  twitter:  
+  facebook:  
+  email: carolin.mueller@ext.uni.lu
+  linkedin:  
+
+google_analytics: "UA-58263416-1"
+
+
