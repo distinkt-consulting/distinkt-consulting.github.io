@@ -16,19 +16,19 @@ paginate: 5
 navigation:
   - title: Home
     url: /index.html
-  - title: Location
-    url: /location
-  - title: Schedule
-    url: /schedule
-  - title: About the Organizers
+  - title: Coaching und Beratung
+    url: /coaching
+  - title: Über mich
+    url: /cv
+  - title: Kontakt
     url: /contact
 
 social:
-  github: ESTML
-  twitter:  
-  facebook:  
-  email: carolin.mueller@ext.uni.lu
-  linkedin:  
+  github: https://github.com/distinkt-consulting
+  #twitter: 
+  #facebook:  
+  email: webmaster@distinkt.de
+  linkedin: https://www.linkedin.com/in/dominik-kemmer-aa526596
 
 google_analytics: "UA-58263416-1"
 
