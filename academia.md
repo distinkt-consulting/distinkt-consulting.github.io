@@ -1,12 +1,11 @@
 ---
-title: Academic Profile
+title: Scientific Profile
 layout: page
-description: Academic Profile
+description: Sciebtific Profile
 bodyClass: page-about
 ---
 
 # Education and Scientific Career
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+2012 - 2015 | M.A. Philosophy, University of Tübingen 
+2008 - 2012 | B.A. Philosophy and Economics, University of Bayreuth
