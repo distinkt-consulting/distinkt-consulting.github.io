@@ -5,8 +5,6 @@ description: Services
 bodyClass: page-about
 ---
 
-# Services
-
 - Coaching
 - Team Coaching
 - Supervision
