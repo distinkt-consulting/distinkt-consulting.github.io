@@ -10,4 +10,4 @@ show_call_box: true
 
 # Dominik Kemmer
 
-I am a philosopher, psychologist, and economist interested in understanding and shaping complex systems.
+I am a philosopher, psychologist, and economist. I am interested in understanding and shaping complex systems - and all matters that are related to it. 
