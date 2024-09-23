@@ -5,6 +5,7 @@ description: Team
 permalink: "/team/"
 header: Irgendeine Überschrift
 subheader: Irgendeine Unterüberschrift
+id_cards: True
 ---
 
 # Eine andere Überschrift
