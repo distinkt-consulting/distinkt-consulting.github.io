@@ -1,10 +1,8 @@
 ---
-title: Team
+title: Irgendeine Überschrift
 layout: teams
-description: Team
+description: eine kurze Beschreibung
 permalink: "/team/"
-header: Irgendeine Überschrift
-subheader: Irgendeine Unterüberschrift
 id_cards: True
 ---
 
