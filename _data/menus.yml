@@ -5,10 +5,10 @@ main:
   - name: "About Me"
     url: "/team/"
     weight: 3
-  - name: "About My Work"
-    url: "/work/"
+  - name: "Scientific Profile"
+    url: "/science/"
     weight: 4
-  - name: "Services"
+  - name: "Consulting"
     url: "/services/"
     weight: 5
   - name: "Contact"
