@@ -3,10 +3,10 @@ title: Team
 layout: teams
 description: Team
 permalink: "/team/"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+header: Irgendeine Überschrift
+subheader: Irgendeine Unterüberschrift
 ---
 
-# Meet The Team
+# Eine andere Überschrift
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
