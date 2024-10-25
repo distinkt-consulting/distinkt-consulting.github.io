@@ -6,11 +6,10 @@ bodyClass: page-about
 ---
 
 Dominik Kemmer
-
-Moltkestraße 4,
-
+&nbsp;
+Moltkestraße 4
+&nbsp;
 91054 Erlangen
-
 
 E-Mail: dominik.kemmer@distinkt.de
 
