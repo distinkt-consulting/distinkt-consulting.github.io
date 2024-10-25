@@ -5,11 +5,9 @@ description: Impressum
 bodyClass: page-about
 ---
 
-# Impressum
-
-Dominik Kemmer
-Moltkestraße 4
-91054 Erlangen
+Dominik Kemmer<br>
+Moltkestraße 4<br>
+91054 Erlangen<br>
 
 E-Mail: dominik.kemmer@distinkt.de
 
